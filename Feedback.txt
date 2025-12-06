@@ -1,0 +1,5 @@
+
+Question 1: X should exclude ID and all other spending variables; only target was removed: -4,
+New customer was created by copying an existing row, so Customer_Tenure_Days is incorrect and not computed using the customer’s actual date: -4, 
+No interpretation of CV results provided: -1
+Total: 94/100
